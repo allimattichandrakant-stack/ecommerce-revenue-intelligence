@@ -1,0 +1,4 @@
+control_n,variant_n,control_conv_rate,variant_conv_rate,absolute_lift_pp,relative_lift_pct,z_statistic,p_value,ci_95_lower_pp,ci_95_upper_pp,is_significant,alpha,segment
+96151,95576,3.1097,3.3052,0.1955,6.29,2.4296,0.015114,0.0378,0.3533,True,0.05,mobile
+45101,45076,3.1463,3.3344,0.1881,5.98,1.595,0.110713,-0.043,0.4192,False,0.05,desktop
+9139,8957,3.3155,3.3158,0.0004,0.01,0.0014,0.998858,-0.5214,0.5221,False,0.05,tablet

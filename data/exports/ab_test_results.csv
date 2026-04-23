@@ -1,0 +1,2 @@
+control_n,variant_n,control_conv_rate,variant_conv_rate,absolute_lift_pp,relative_lift_pct,z_statistic,p_value,ci_95_lower_pp,ci_95_upper_pp,is_significant,alpha
+150391,149609,3.1332,3.3146,0.1815,5.79,2.8137,0.004897,0.0551,0.3079,True,0.05

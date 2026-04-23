@@ -1,0 +1,500 @@
+seller_id,disputed_count,total_discrepancy,avg_discrepancy_pct,max_risk_score,seller_name,category,tier,audit_required
+S00437,7,52708.88,41.44,0.89,Seller_437,Grocery,Silver,True
+S00474,10,39193.47,37.45,0.71,Seller_474,Sports,Silver,True
+S00364,7,38901.56,35.95,0.83,Seller_364,Books,Platinum,True
+S00489,9,31794.16,37.94,0.67,Seller_489,Beauty,Silver,True
+S00425,7,29832.62,38.82,0.52,Seller_425,Jewellery,Silver,True
+S00020,8,29532.65,34.39,0.42,Seller_20,Fashion,Bronze,True
+S00216,9,28177.04,41.26,0.48,Seller_216,Electronics,Platinum,True
+S00119,11,26739.76,36.06,0.54,Seller_119,Toys,Bronze,True
+S00361,4,25166.63,32.64,0.56,Seller_361,Beauty,Silver,True
+S00341,6,23637.6,39.88,0.47,Seller_341,Toys,Silver,True
+S00158,10,23151.81,36.96,0.44,Seller_158,Home & Kitchen,Bronze,True
+S00327,10,23029.32,38.09,0.59,Seller_327,Electronics,Bronze,True
+S00057,11,22977.06,38.94,0.5,Seller_57,Fashion,Silver,True
+S00252,10,22842.75,52.19,0.55,Seller_252,Beauty,Bronze,True
+S00078,13,22098.99,38.1,0.41,Seller_78,Automotive,Silver,True
+S00233,13,22011.07,32.97,0.42,Seller_233,Fashion,Bronze,True
+S00151,3,21113.82,47.55,0.59,Seller_151,Home & Kitchen,Bronze,True
+S00447,6,21104.05,43.99,0.52,Seller_447,Home & Kitchen,Silver,True
+S00464,10,20980.64,34.36,0.5,Seller_464,Grocery,Silver,True
+S00117,11,20881.03,37.09,0.46,Seller_117,Jewellery,Silver,True
+S00029,9,20346.45,33.42,0.46,Seller_29,Toys,Bronze,True
+S00430,8,18441.8,33.46,0.34,Seller_430,Fashion,Bronze,True
+S00287,10,18329.77,35.29,0.4,Seller_287,Fashion,Bronze,True
+S00064,10,17500.51,35.94,0.41,Seller_64,Jewellery,Silver,True
+S00052,11,16985.1,36.76,0.45,Seller_52,Electronics,Bronze,True
+S00268,9,16897.73,49.42,0.49,Seller_268,Beauty,Silver,True
+S00212,12,16583.36,44.67,0.43,Seller_212,Beauty,Bronze,True
+S00144,12,16580.05,37.46,0.41,Seller_144,Toys,Bronze,True
+S00325,10,16438.66,36.07,0.49,Seller_325,Fashion,Silver,True
+S00134,14,15975.29,40.43,0.38,Seller_134,Books,Bronze,True
+S00249,9,15971.39,46.16,0.41,Seller_249,Beauty,Bronze,True
+S00344,7,15571.27,39.72,0.4,Seller_344,Beauty,Gold,True
+S00460,10,15550.93,43.01,0.49,Seller_460,Home & Kitchen,Bronze,True
+S00288,12,15185.81,35.96,0.37,Seller_288,Sports,Silver,True
+S00219,11,15107.32,42.81,0.4,Seller_219,Fashion,Gold,True
+S00419,14,15042.7,34.55,0.37,Seller_419,Sports,Platinum,True
+S00157,9,15036.9,37.9,0.5,Seller_157,Electronics,Silver,True
+S00227,6,14995.97,42.63,0.46,Seller_227,Home & Kitchen,Silver,True
+S00018,12,14914.01,35.89,0.4,Seller_18,Grocery,Silver,True
+S00289,9,14868.51,44.11,0.45,Seller_289,Electronics,Bronze,True
+S00313,7,14778.73,45.33,0.42,Seller_313,Automotive,Silver,True
+S00345,11,14557.47,37.83,0.41,Seller_345,Electronics,Platinum,True
+S00094,7,14518.3,44.25,0.42,Seller_94,Jewellery,Bronze,True
+S00337,7,14362.8,43.35,0.47,Seller_337,Fashion,Bronze,True
+S00321,12,14157.31,35.69,0.41,Seller_321,Books,Gold,True
+S00328,11,14146.97,44.12,0.4,Seller_328,Grocery,Gold,True
+S00406,11,13997.29,32.51,0.38,Seller_406,Toys,Bronze,True
+S00486,7,13783.53,34.41,0.45,Seller_486,Home & Kitchen,Gold,True
+S00164,7,13771.12,36.66,0.5,Seller_164,Beauty,Bronze,True
+S00188,10,13506.67,33.83,0.37,Seller_188,Jewellery,Bronze,True
+S00463,6,13501.46,41.52,0.44,Seller_463,Jewellery,Bronze,True
+S00072,9,13492.15,38.95,0.44,Seller_72,Sports,Bronze,True
+S00124,13,13348.64,41.22,0.41,Seller_124,Toys,Silver,True
+S00143,9,13258.35,44.56,0.41,Seller_143,Automotive,Bronze,True
+S00243,9,13082.77,35.54,0.39,Seller_243,Beauty,Bronze,True
+S00116,9,13037.52,40.55,0.42,Seller_116,Sports,Bronze,True
+S00351,8,12987.92,37.57,0.41,Seller_351,Toys,Platinum,True
+S00338,8,12987.26,37.4,0.38,Seller_338,Automotive,Gold,True
+S00352,12,12925.89,38.55,0.43,Seller_352,Books,Bronze,True
+S00389,9,12919.15,32.09,0.41,Seller_389,Sports,Silver,True
+S00454,5,12844.25,30.25,0.33,Seller_454,Electronics,Silver,True
+S00459,10,12794.78,29.69,0.5,Seller_459,Fashion,Gold,True
+S00371,9,12698.88,46.52,0.49,Seller_371,Beauty,Platinum,True
+S00329,7,12578.17,36.85,0.47,Seller_329,Electronics,Platinum,True
+S00169,6,12547.14,42.73,0.4,Seller_169,Toys,Bronze,True
+S00492,9,12526.29,41.16,0.39,Seller_492,Toys,Gold,True
+S00132,9,12220.23,35.47,0.34,Seller_132,Toys,Bronze,True
+S00427,10,12138.68,44.2,0.4,Seller_427,Books,Platinum,True
+S00493,5,12085.66,27.11,0.38,Seller_493,Grocery,Bronze,True
+S00246,6,11905.39,36.17,0.43,Seller_246,Grocery,Bronze,True
+S00436,7,11898.69,42.34,0.45,Seller_436,Electronics,Silver,True
+S00146,8,11895.71,35.96,0.44,Seller_146,Electronics,Bronze,True
+S00318,8,11892.12,36.41,0.4,Seller_318,Grocery,Bronze,True
+S00312,5,11748.01,30.8,0.36,Seller_312,Fashion,Bronze,True
+S00191,6,11718.18,40.44,0.4,Seller_191,Beauty,Silver,True
+S00274,10,11683.67,42.76,0.39,Seller_274,Toys,Gold,True
+S00239,10,11667.35,36.64,0.4,Seller_239,Automotive,Silver,True
+S00142,8,11572.75,31.73,0.42,Seller_142,Toys,Bronze,True
+S00403,11,11328.04,36.1,0.41,Seller_403,Toys,Platinum,True
+S00343,13,11322.97,40.37,0.42,Seller_343,Beauty,Platinum,True
+S00413,11,11321.75,32.98,0.47,Seller_413,Sports,Silver,True
+S00347,8,11243.08,38.03,0.4,Seller_347,Home & Kitchen,Platinum,True
+S00185,8,11158.87,42.68,0.39,Seller_185,Home & Kitchen,Bronze,True
+S00088,9,11142.88,37.17,0.41,Seller_88,Electronics,Silver,True
+S00022,7,10989.19,33.04,0.36,Seller_22,Electronics,Silver,True
+S00272,6,10984.22,35.39,0.4,Seller_272,Grocery,Bronze,True
+S00014,5,10949.72,34.24,0.37,Seller_14,Home & Kitchen,Bronze,True
+S00357,12,10861.11,34.93,0.38,Seller_357,Jewellery,Silver,True
+S00049,13,10848.07,40.59,0.39,Seller_49,Toys,Bronze,True
+S00192,10,10797.58,34.22,0.38,Seller_192,Toys,Bronze,True
+S00092,7,10694.81,31.07,0.3,Seller_92,Electronics,Bronze,True
+S00222,11,10628.77,38.6,0.41,Seller_222,Automotive,Bronze,True
+S00238,7,10616.7,39.33,0.47,Seller_238,Automotive,Bronze,True
+S00247,8,10515.4,34.35,0.39,Seller_247,Electronics,Bronze,True
+S00087,8,10513.82,38.22,0.34,Seller_87,Home & Kitchen,Silver,True
+S00461,6,10509.28,35.85,0.4,Seller_461,Toys,Bronze,True
+S00415,9,10501.62,39.21,0.46,Seller_415,Beauty,Silver,True
+S00139,5,10477.53,48.8,0.46,Seller_139,Books,Bronze,True
+S00232,8,10431.51,37.64,0.38,Seller_232,Electronics,Bronze,True
+S00198,10,10407.47,42.7,0.46,Seller_198,Beauty,Gold,True
+S00240,10,10305.7,42.23,0.41,Seller_240,Home & Kitchen,Bronze,False
+S00043,7,10256.69,33.72,0.37,Seller_43,Jewellery,Gold,False
+S00194,8,10242.94,35.17,0.45,Seller_194,Electronics,Bronze,False
+S00061,7,10242.89,32.59,0.27,Seller_61,Beauty,Silver,False
+S00081,11,10113.33,36.94,0.44,Seller_81,Toys,Bronze,False
+S00451,7,10106.48,24.73,0.27,Seller_451,Sports,Bronze,False
+S00484,7,10100.13,33.16,0.47,Seller_484,Automotive,Silver,False
+S00382,13,10093.47,36.13,0.42,Seller_382,Grocery,Gold,False
+S00186,12,10041.89,33.62,0.38,Seller_186,Fashion,Platinum,False
+S00424,11,10023.23,40.03,0.42,Seller_424,Toys,Bronze,False
+S00090,9,10008.83,31.23,0.37,Seller_90,Home & Kitchen,Bronze,False
+S00004,8,9992.41,42.27,0.46,Seller_4,Sports,Silver,False
+S00324,12,9846.78,40.29,0.4,Seller_324,Jewellery,Bronze,False
+S00275,10,9826.65,32.82,0.4,Seller_275,Home & Kitchen,Bronze,False
+S00165,9,9779.71,42.98,0.4,Seller_165,Electronics,Silver,False
+S00075,6,9767.8,40.49,0.42,Seller_75,Grocery,Silver,False
+S00122,12,9764.89,33.47,0.34,Seller_122,Jewellery,Silver,False
+S00374,9,9756.42,38.67,0.41,Seller_374,Home & Kitchen,Bronze,False
+S00402,8,9755.74,26.68,0.43,Seller_402,Electronics,Platinum,False
+S00015,8,9720.95,42.94,0.4,Seller_15,Books,Platinum,False
+S00028,8,9658.61,34.16,0.35,Seller_28,Home & Kitchen,Bronze,False
+S00277,3,9636.7,55.29,0.46,Seller_277,Electronics,Platinum,False
+S00106,6,9607.48,37.7,0.44,Seller_106,Sports,Bronze,False
+S00469,10,9561.07,39.66,0.38,Seller_469,Home & Kitchen,Bronze,False
+S00390,9,9450.22,30.48,0.32,Seller_390,Toys,Silver,False
+S00062,10,9383.1,35.61,0.4,Seller_62,Books,Bronze,False
+S00172,11,9344.72,39.27,0.35,Seller_172,Electronics,Bronze,False
+S00421,9,9322.29,36.5,0.39,Seller_421,Beauty,Bronze,False
+S00261,5,9269.53,53.56,0.48,Seller_261,Fashion,Gold,False
+S00231,11,9177.25,35.44,0.38,Seller_231,Beauty,Bronze,False
+S00104,6,9145.46,47.5,0.42,Seller_104,Toys,Silver,False
+S00058,6,8963.98,33.59,0.35,Seller_58,Books,Silver,False
+S00016,8,8938.89,41.24,0.47,Seller_16,Sports,Silver,False
+S00071,12,8916.08,32.34,0.41,Seller_71,Grocery,Bronze,False
+S00225,5,8900.63,42.29,0.41,Seller_225,Toys,Bronze,False
+S00045,7,8855.17,37.87,0.36,Seller_45,Jewellery,Bronze,False
+S00148,11,8836.0,39.49,0.39,Seller_148,Automotive,Gold,False
+S00332,4,8788.93,40.94,0.4,Seller_332,Toys,Platinum,False
+S00473,8,8661.57,38.48,0.45,Seller_473,Jewellery,Bronze,False
+S00291,12,8643.01,33.48,0.41,Seller_291,Sports,Platinum,False
+S00378,7,8582.3,40.74,0.38,Seller_378,Fashion,Silver,False
+S00084,10,8573.67,30.78,0.29,Seller_84,Electronics,Platinum,False
+S00244,5,8562.69,31.11,0.41,Seller_244,Grocery,Bronze,False
+S00217,11,8480.37,38.9,0.46,Seller_217,Grocery,Bronze,False
+S00455,5,8472.4,29.82,0.28,Seller_455,Grocery,Platinum,False
+S00100,6,8446.37,35.43,0.33,Seller_100,Grocery,Platinum,False
+S00481,7,8431.96,31.63,0.34,Seller_481,Beauty,Bronze,False
+S00408,8,8374.88,44.9,0.41,Seller_408,Jewellery,Silver,False
+S00211,8,8368.69,36.14,0.35,Seller_211,Home & Kitchen,Bronze,False
+S00131,8,8343.52,36.48,0.4,Seller_131,Beauty,Silver,False
+S00063,6,8331.87,40.86,0.42,Seller_63,Fashion,Bronze,False
+S00210,12,8274.08,31.24,0.35,Seller_210,Home & Kitchen,Bronze,False
+S00155,9,8207.5,45.26,0.4,Seller_155,Automotive,Silver,False
+S00446,9,8175.25,35.87,0.43,Seller_446,Fashion,Silver,False
+S00262,8,8152.45,47.04,0.44,Seller_262,Fashion,Gold,False
+S00410,9,8099.11,34.87,0.41,Seller_410,Sports,Bronze,False
+S00110,6,8083.43,39.41,0.41,Seller_110,Home & Kitchen,Platinum,False
+S00399,8,8079.0,43.83,0.42,Seller_399,Automotive,Bronze,False
+S00027,6,8033.36,32.13,0.37,Seller_27,Jewellery,Silver,False
+S00456,9,8014.76,41.2,0.4,Seller_456,Jewellery,Platinum,False
+S00462,8,8013.77,33.48,0.37,Seller_462,Electronics,Silver,False
+S00223,9,8010.02,47.14,0.41,Seller_223,Automotive,Platinum,False
+S00128,9,8000.29,38.64,0.37,Seller_128,Sports,Bronze,False
+S00497,9,7990.24,44.82,0.4,Seller_497,Toys,Silver,False
+S00285,6,7986.8,42.32,0.43,Seller_285,Books,Silver,False
+S00107,5,7964.96,36.6,0.38,Seller_107,Home & Kitchen,Bronze,False
+S00070,8,7887.34,38.95,0.43,Seller_70,Automotive,Bronze,False
+S00308,9,7869.27,38.27,0.38,Seller_308,Sports,Bronze,False
+S00113,6,7841.19,36.28,0.34,Seller_113,Sports,Platinum,False
+S00281,9,7839.67,32.7,0.33,Seller_281,Books,Platinum,False
+S00428,8,7830.58,38.01,0.42,Seller_428,Sports,Platinum,False
+S00386,8,7768.17,31.48,0.34,Seller_386,Jewellery,Gold,False
+S00395,6,7727.37,47.1,0.39,Seller_395,Jewellery,Platinum,False
+S00102,9,7558.45,36.28,0.44,Seller_102,Electronics,Silver,False
+S00215,9,7556.85,33.98,0.38,Seller_215,Automotive,Platinum,False
+S00080,8,7555.5,36.24,0.39,Seller_80,Automotive,Bronze,False
+S00059,9,7524.07,44.54,0.4,Seller_59,Books,Bronze,False
+S00257,9,7437.59,34.1,0.36,Seller_257,Automotive,Gold,False
+S00221,11,7421.02,36.48,0.34,Seller_221,Electronics,Gold,False
+S00023,6,7398.36,33.94,0.42,Seller_23,Jewellery,Silver,False
+S00314,6,7363.95,26.54,0.28,Seller_314,Jewellery,Bronze,False
+S00375,6,7356.28,32.14,0.37,Seller_375,Toys,Silver,False
+S00011,8,7328.63,38.22,0.4,Seller_11,Beauty,Gold,False
+S00226,6,7312.64,40.83,0.4,Seller_226,Jewellery,Silver,False
+S00315,7,7264.84,36.7,0.43,Seller_315,Books,Bronze,False
+S00147,6,7238.77,40.41,0.4,Seller_147,Automotive,Bronze,False
+S00326,6,7182.47,46.46,0.41,Seller_326,Jewellery,Silver,False
+S00259,6,7155.58,27.02,0.33,Seller_259,Automotive,Silver,False
+S00208,4,7107.74,39.08,0.43,Seller_208,Home & Kitchen,Gold,False
+S00466,10,7057.56,34.3,0.35,Seller_466,Jewellery,Bronze,False
+S00213,10,7035.9,34.62,0.38,Seller_213,Toys,Bronze,False
+S00047,7,6994.94,41.32,0.4,Seller_47,Fashion,Silver,False
+S00111,9,6973.09,35.16,0.37,Seller_111,Electronics,Bronze,False
+S00105,10,6963.63,29.12,0.39,Seller_105,Grocery,Gold,False
+S00140,5,6936.06,44.6,0.4,Seller_140,Beauty,Silver,False
+S00038,7,6933.8,35.49,0.4,Seller_38,Toys,Gold,False
+S00303,8,6908.31,40.72,0.38,Seller_303,Electronics,Silver,False
+S00490,9,6886.19,33.52,0.37,Seller_490,Fashion,Bronze,False
+S00478,5,6883.38,43.49,0.4,Seller_478,Automotive,Bronze,False
+S00050,10,6866.92,29.9,0.35,Seller_50,Grocery,Platinum,False
+S00381,5,6841.31,39.45,0.36,Seller_381,Electronics,Silver,False
+S00409,9,6831.39,35.45,0.39,Seller_409,Home & Kitchen,Gold,False
+S00130,4,6803.11,37.39,0.36,Seller_130,Toys,Bronze,False
+S00401,6,6731.72,37.28,0.38,Seller_401,Sports,Gold,False
+S00214,7,6714.16,28.93,0.28,Seller_214,Beauty,Bronze,False
+S00435,8,6708.16,41.63,0.42,Seller_435,Jewellery,Bronze,False
+S00280,9,6707.01,39.04,0.39,Seller_280,Toys,Silver,False
+S00175,8,6696.58,39.9,0.36,Seller_175,Grocery,Bronze,False
+S00330,6,6690.48,34.12,0.32,Seller_330,Automotive,Gold,False
+S00284,8,6667.88,39.55,0.41,Seller_284,Home & Kitchen,Silver,False
+S00297,7,6597.1,47.22,0.42,Seller_297,Sports,Bronze,False
+S00369,9,6537.88,39.3,0.4,Seller_369,Sports,Bronze,False
+S00150,7,6537.1,27.36,0.38,Seller_150,Automotive,Bronze,False
+S00441,4,6523.92,45.28,0.43,Seller_441,Toys,Platinum,False
+S00418,10,6506.03,34.71,0.37,Seller_418,Jewellery,Silver,False
+S00108,6,6464.91,32.95,0.39,Seller_108,Grocery,Bronze,False
+S00152,10,6355.2,41.18,0.4,Seller_152,Toys,Silver,False
+S00422,9,6352.87,37.12,0.4,Seller_422,Electronics,Silver,False
+S00414,8,6331.17,40.03,0.41,Seller_414,Electronics,Gold,False
+S00200,13,6244.11,40.76,0.41,Seller_200,Books,Gold,False
+S00299,10,6243.86,39.8,0.41,Seller_299,Home & Kitchen,Silver,False
+S00095,7,6229.72,38.01,0.35,Seller_95,Toys,Bronze,False
+S00056,10,6226.44,33.36,0.4,Seller_56,Beauty,Silver,False
+S00135,7,6209.75,38.57,0.38,Seller_135,Fashion,Bronze,False
+S00237,5,6140.12,39.54,0.37,Seller_237,Toys,Bronze,False
+S00323,7,6131.12,39.61,0.37,Seller_323,Fashion,Platinum,False
+S00452,8,6078.3,40.68,0.4,Seller_452,Home & Kitchen,Gold,False
+S00141,5,6074.89,45.15,0.42,Seller_141,Jewellery,Platinum,False
+S00448,10,6030.42,37.07,0.39,Seller_448,Electronics,Gold,False
+S00498,7,6029.16,24.02,0.24,Seller_498,Toys,Silver,False
+S00048,6,6017.85,43.08,0.36,Seller_48,Beauty,Silver,False
+S00295,7,5987.33,43.99,0.41,Seller_295,Electronics,Bronze,False
+S00412,11,5983.19,33.9,0.41,Seller_412,Automotive,Bronze,False
+S00384,9,5978.26,39.12,0.37,Seller_384,Jewellery,Silver,False
+S00491,5,5946.79,30.97,0.33,Seller_491,Electronics,Platinum,False
+S00367,9,5929.11,39.25,0.39,Seller_367,Grocery,Platinum,False
+S00253,6,5925.27,31.68,0.41,Seller_253,Books,Platinum,False
+S00387,10,5920.16,45.39,0.4,Seller_387,Sports,Bronze,False
+S00300,5,5912.68,34.2,0.28,Seller_300,Automotive,Bronze,False
+S00082,4,5899.67,37.73,0.38,Seller_82,Automotive,Platinum,False
+S00182,6,5869.76,39.83,0.38,Seller_182,Sports,Bronze,False
+S00282,5,5854.22,35.86,0.35,Seller_282,Books,Gold,False
+S00354,7,5832.62,26.8,0.22,Seller_354,Automotive,Platinum,False
+S00267,8,5831.08,44.06,0.37,Seller_267,Electronics,Bronze,False
+S00187,12,5818.77,31.72,0.34,Seller_187,Sports,Silver,False
+S00089,7,5771.71,32.76,0.36,Seller_89,Grocery,Bronze,False
+S00397,8,5761.73,38.97,0.4,Seller_397,Fashion,Bronze,False
+S00468,5,5750.89,37.1,0.4,Seller_468,Fashion,Bronze,False
+S00467,10,5745.85,35.64,0.4,Seller_467,Jewellery,Silver,False
+S00010,8,5726.63,30.49,0.38,Seller_10,Sports,Silver,False
+S00358,10,5712.75,32.53,0.41,Seller_358,Jewellery,Silver,False
+S00156,7,5697.84,38.51,0.38,Seller_156,Sports,Bronze,False
+S00429,6,5691.17,34.47,0.3,Seller_429,Beauty,Gold,False
+S00229,10,5688.88,28.81,0.33,Seller_229,Jewellery,Silver,False
+S00137,6,5664.8,31.43,0.32,Seller_137,Automotive,Silver,False
+S00026,7,5661.27,45.2,0.42,Seller_26,Electronics,Bronze,False
+S00483,8,5653.62,32.11,0.42,Seller_483,Sports,Silver,False
+S00290,10,5649.46,37.53,0.4,Seller_290,Electronics,Platinum,False
+S00163,8,5609.34,34.06,0.4,Seller_163,Automotive,Bronze,False
+S00465,7,5607.49,36.73,0.42,Seller_465,Jewellery,Silver,False
+S00042,6,5525.75,30.9,0.26,Seller_42,Fashion,Silver,False
+S00346,7,5515.32,27.64,0.29,Seller_346,Grocery,Bronze,False
+S00154,10,5493.54,37.19,0.38,Seller_154,Grocery,Silver,False
+S00098,10,5459.32,31.92,0.36,Seller_98,Toys,Bronze,False
+S00079,8,5432.47,27.35,0.27,Seller_79,Electronics,Platinum,False
+S00339,10,5373.6,34.6,0.4,Seller_339,Grocery,Bronze,False
+S00127,6,5370.59,36.42,0.35,Seller_127,Beauty,Silver,False
+S00076,5,5360.02,35.81,0.39,Seller_76,Jewellery,Gold,False
+S00101,8,5327.32,39.35,0.39,Seller_101,Fashion,Platinum,False
+S00199,9,5297.61,36.41,0.38,Seller_199,Fashion,Platinum,False
+S00394,7,5292.5,39.28,0.39,Seller_394,Jewellery,Bronze,False
+S00138,8,5274.07,41.37,0.37,Seller_138,Sports,Bronze,False
+S00044,9,5142.63,30.03,0.38,Seller_44,Automotive,Silver,False
+S00033,8,5142.11,34.77,0.39,Seller_33,Sports,Platinum,False
+S00126,8,5117.99,28.04,0.33,Seller_126,Beauty,Bronze,False
+S00129,5,5109.61,34.73,0.43,Seller_129,Toys,Platinum,False
+S00433,10,5099.78,35.03,0.37,Seller_433,Jewellery,Platinum,False
+S00006,6,5003.09,33.56,0.39,Seller_6,Jewellery,Bronze,False
+S00271,4,4978.11,44.07,0.42,Seller_271,Beauty,Silver,False
+S00183,6,4966.47,44.84,0.39,Seller_183,Electronics,Silver,False
+S00366,7,4963.59,31.85,0.38,Seller_366,Electronics,Bronze,False
+S00494,8,4899.49,40.2,0.42,Seller_494,Toys,Platinum,False
+S00055,7,4889.09,34.29,0.37,Seller_55,Grocery,Silver,False
+S00423,8,4880.68,35.34,0.4,Seller_423,Sports,Bronze,False
+S00178,8,4875.85,40.2,0.38,Seller_178,Fashion,Platinum,False
+S00166,7,4864.63,35.64,0.41,Seller_166,Electronics,Platinum,False
+S00470,5,4863.3,36.68,0.33,Seller_470,Automotive,Platinum,False
+S00482,13,4824.41,31.31,0.38,Seller_482,Jewellery,Bronze,False
+S00053,5,4816.03,39.73,0.38,Seller_53,Beauty,Platinum,False
+S00256,8,4810.02,38.6,0.39,Seller_256,Home & Kitchen,Platinum,False
+S00365,7,4771.89,36.91,0.38,Seller_365,Sports,Platinum,False
+S00065,4,4742.59,38.76,0.37,Seller_65,Fashion,Bronze,False
+S00495,6,4709.67,30.01,0.3,Seller_495,Sports,Gold,False
+S00350,11,4669.18,33.63,0.36,Seller_350,Fashion,Bronze,False
+S00440,6,4658.47,38.92,0.38,Seller_440,Grocery,Silver,False
+S00340,6,4636.29,38.53,0.4,Seller_340,Jewellery,Platinum,False
+S00444,7,4632.48,32.99,0.34,Seller_444,Beauty,Bronze,False
+S00359,5,4629.4,36.03,0.42,Seller_359,Books,Silver,False
+S00066,5,4628.41,38.37,0.4,Seller_66,Jewellery,Bronze,False
+S00479,7,4583.97,44.45,0.39,Seller_479,Sports,Platinum,False
+S00030,6,4544.47,37.44,0.4,Seller_30,Beauty,Silver,False
+S00228,6,4538.34,41.14,0.4,Seller_228,Toys,Bronze,False
+S00209,8,4518.5,34.28,0.32,Seller_209,Jewellery,Platinum,False
+S00377,6,4512.35,38.66,0.39,Seller_377,Beauty,Gold,False
+S00136,7,4477.39,44.4,0.36,Seller_136,Jewellery,Bronze,False
+S00235,7,4468.33,33.26,0.37,Seller_235,Sports,Bronze,False
+S00283,4,4468.21,43.02,0.41,Seller_283,Books,Silver,False
+S00264,9,4447.65,29.95,0.3,Seller_264,Home & Kitchen,Gold,False
+S00405,6,4437.72,32.99,0.38,Seller_405,Books,Bronze,False
+S00270,9,4429.61,36.84,0.4,Seller_270,Sports,Gold,False
+S00355,7,4423.34,37.77,0.4,Seller_355,Jewellery,Silver,False
+S00266,1,4417.44,35.1,0.29,Seller_266,Beauty,Bronze,False
+S00294,8,4401.25,45.46,0.39,Seller_294,Home & Kitchen,Platinum,False
+S00005,11,4398.8,30.73,0.35,Seller_5,Toys,Platinum,False
+S00001,6,4385.93,40.11,0.4,Seller_1,Toys,Silver,False
+S00121,4,4378.7,37.7,0.3,Seller_121,Jewellery,Bronze,False
+S00176,5,4367.2,44.31,0.38,Seller_176,Electronics,Platinum,False
+S00118,5,4366.13,28.36,0.3,Seller_118,Toys,Gold,False
+S00307,8,4326.74,38.45,0.41,Seller_307,Beauty,Bronze,False
+S00035,4,4304.88,36.2,0.32,Seller_35,Toys,Bronze,False
+S00096,4,4288.93,41.48,0.41,Seller_96,Jewellery,Bronze,False
+S00083,6,4284.96,37.87,0.31,Seller_83,Grocery,Bronze,False
+S00362,8,4249.27,32.22,0.35,Seller_362,Jewellery,Bronze,False
+S00120,8,4213.03,37.74,0.4,Seller_120,Automotive,Silver,False
+S00385,6,4208.08,37.16,0.32,Seller_385,Toys,Silver,False
+S00393,6,4206.45,36.98,0.4,Seller_393,Electronics,Silver,False
+S00333,3,4202.42,47.96,0.44,Seller_333,Jewellery,Bronze,False
+S00342,4,4183.39,47.59,0.42,Seller_342,Automotive,Platinum,False
+S00197,11,4181.3,37.78,0.37,Seller_197,Sports,Gold,False
+S00074,4,4157.98,44.11,0.39,Seller_74,Sports,Silver,False
+S00067,6,4150.98,45.52,0.36,Seller_67,Beauty,Silver,False
+S00258,7,4068.98,37.48,0.41,Seller_258,Home & Kitchen,Silver,False
+S00002,5,4060.77,34.35,0.38,Seller_2,Beauty,Bronze,False
+S00180,6,4052.7,32.69,0.33,Seller_180,Books,Bronze,False
+S00241,8,4041.45,41.84,0.4,Seller_241,Home & Kitchen,Bronze,False
+S00480,7,4038.38,30.54,0.29,Seller_480,Automotive,Platinum,False
+S00007,6,4025.8,33.1,0.37,Seller_7,Home & Kitchen,Gold,False
+S00036,4,4024.62,42.81,0.37,Seller_36,Sports,Platinum,False
+S00218,8,3999.84,43.9,0.4,Seller_218,Toys,Bronze,False
+S00348,7,3989.61,46.57,0.4,Seller_348,Toys,Bronze,False
+S00450,6,3957.43,37.15,0.41,Seller_450,Home & Kitchen,Bronze,False
+S00003,7,3955.46,39.55,0.38,Seller_3,Grocery,Bronze,False
+S00160,11,3953.89,32.3,0.32,Seller_160,Grocery,Bronze,False
+S00009,5,3951.07,40.39,0.36,Seller_9,Grocery,Bronze,False
+S00278,7,3926.43,34.57,0.35,Seller_278,Home & Kitchen,Bronze,False
+S00013,7,3897.43,36.63,0.36,Seller_13,Grocery,Silver,False
+S00034,7,3892.6,35.41,0.38,Seller_34,Home & Kitchen,Bronze,False
+S00242,7,3830.19,36.21,0.37,Seller_242,Home & Kitchen,Platinum,False
+S00037,6,3819.84,38.32,0.39,Seller_37,Automotive,Bronze,False
+S00024,4,3814.68,42.72,0.43,Seller_24,Books,Bronze,False
+S00032,11,3806.27,30.36,0.35,Seller_32,Home & Kitchen,Platinum,False
+S00304,5,3788.38,34.31,0.34,Seller_304,Sports,Gold,False
+S00093,7,3775.0,30.7,0.34,Seller_93,Sports,Platinum,False
+S00167,4,3735.65,44.42,0.38,Seller_167,Jewellery,Silver,False
+S00051,5,3729.67,39.75,0.34,Seller_51,Home & Kitchen,Bronze,False
+S00319,7,3726.47,37.68,0.38,Seller_319,Grocery,Bronze,False
+S00320,5,3702.41,37.77,0.32,Seller_320,Fashion,Bronze,False
+S00475,4,3699.6,37.03,0.34,Seller_475,Fashion,Platinum,False
+S00085,4,3689.18,38.52,0.32,Seller_85,Grocery,Bronze,False
+S00379,1,3681.28,57.02,0.43,Seller_379,Jewellery,Bronze,False
+S00335,8,3663.7,30.94,0.28,Seller_335,Jewellery,Silver,False
+S00031,5,3600.95,31.72,0.31,Seller_31,Automotive,Bronze,False
+S00416,4,3587.36,50.34,0.42,Seller_416,Sports,Bronze,False
+S00368,4,3582.01,29.79,0.32,Seller_368,Sports,Gold,False
+S00202,5,3562.66,45.03,0.37,Seller_202,Electronics,Silver,False
+S00356,5,3540.56,30.68,0.37,Seller_356,Books,Silver,False
+S00017,7,3538.41,31.43,0.38,Seller_17,Fashion,Silver,False
+S00400,5,3514.68,41.86,0.39,Seller_400,Grocery,Gold,False
+S00168,9,3510.43,31.37,0.35,Seller_168,Beauty,Gold,False
+S00442,5,3509.53,31.77,0.35,Seller_442,Fashion,Bronze,False
+S00363,5,3427.03,23.05,0.24,Seller_363,Books,Silver,False
+S00193,6,3415.82,36.98,0.37,Seller_193,Grocery,Bronze,False
+S00445,5,3407.32,41.81,0.38,Seller_445,Grocery,Bronze,False
+S00457,4,3371.38,52.57,0.43,Seller_457,Fashion,Silver,False
+S00204,6,3370.59,32.11,0.38,Seller_204,Books,Platinum,False
+S00432,8,3366.1,40.04,0.38,Seller_432,Jewellery,Platinum,False
+S00472,6,3345.59,35.71,0.4,Seller_472,Beauty,Bronze,False
+S00286,5,3328.05,40.99,0.39,Seller_286,Grocery,Platinum,False
+S00205,3,3300.0,45.56,0.4,Seller_205,Home & Kitchen,Bronze,False
+S00073,3,3299.18,47.53,0.37,Seller_73,Fashion,Bronze,False
+S00250,5,3298.66,25.87,0.4,Seller_250,Electronics,Bronze,False
+S00039,5,3286.51,43.74,0.4,Seller_39,Fashion,Platinum,False
+S00487,3,3260.43,42.85,0.32,Seller_487,Electronics,Bronze,False
+S00370,5,3257.62,32.43,0.33,Seller_370,Toys,Silver,False
+S00431,8,3180.28,30.49,0.37,Seller_431,Beauty,Platinum,False
+S00443,4,3171.31,39.34,0.35,Seller_443,Electronics,Bronze,False
+S00025,5,3140.35,42.6,0.41,Seller_25,Automotive,Silver,False
+S00008,7,3100.99,31.55,0.3,Seller_8,Toys,Bronze,False
+S00317,6,3099.27,36.3,0.36,Seller_317,Home & Kitchen,Platinum,False
+S00171,3,3060.22,24.51,0.23,Seller_171,Home & Kitchen,Bronze,False
+S00279,7,3041.65,45.81,0.4,Seller_279,Books,Bronze,False
+S00388,7,3029.53,39.52,0.39,Seller_388,Jewellery,Bronze,False
+S00195,4,2967.3,46.34,0.41,Seller_195,Books,Bronze,False
+S00086,3,2966.09,43.29,0.38,Seller_86,Grocery,Bronze,False
+S00091,8,2947.19,32.92,0.4,Seller_91,Home & Kitchen,Silver,False
+S00398,4,2893.68,31.41,0.33,Seller_398,Books,Bronze,False
+S00396,4,2891.55,35.16,0.39,Seller_396,Electronics,Silver,False
+S00292,7,2879.54,35.3,0.38,Seller_292,Home & Kitchen,Bronze,False
+S00488,6,2829.71,42.97,0.38,Seller_488,Home & Kitchen,Silver,False
+S00123,5,2803.68,25.0,0.25,Seller_123,Home & Kitchen,Platinum,False
+S00439,7,2803.3,34.34,0.38,Seller_439,Beauty,Bronze,False
+S00376,7,2797.92,33.63,0.39,Seller_376,Grocery,Silver,False
+S00334,7,2794.27,28.44,0.35,Seller_334,Toys,Silver,False
+S00203,6,2763.04,38.38,0.4,Seller_203,Automotive,Bronze,False
+S00115,6,2761.76,37.49,0.36,Seller_115,Electronics,Silver,False
+S00269,4,2757.12,30.4,0.33,Seller_269,Electronics,Silver,False
+S00207,6,2753.71,38.88,0.39,Seller_207,Beauty,Bronze,False
+S00153,8,2712.85,34.63,0.38,Seller_153,Books,Silver,False
+S00316,8,2699.14,33.21,0.35,Seller_316,Jewellery,Platinum,False
+S00260,4,2698.89,49.19,0.4,Seller_260,Fashion,Platinum,False
+S00248,8,2690.2,32.0,0.28,Seller_248,Grocery,Bronze,False
+S00230,5,2680.96,35.76,0.39,Seller_230,Automotive,Silver,False
+S00301,3,2637.86,28.47,0.34,Seller_301,Sports,Silver,False
+S00173,6,2579.68,36.99,0.33,Seller_173,Sports,Platinum,False
+S00306,5,2569.11,49.24,0.37,Seller_306,Electronics,Bronze,False
+S00322,4,2545.53,42.18,0.32,Seller_322,Toys,Platinum,False
+S00499,6,2543.15,29.4,0.27,Seller_499,Automotive,Platinum,False
+S00245,4,2525.24,30.03,0.36,Seller_245,Books,Bronze,False
+S00296,5,2499.89,35.87,0.38,Seller_296,Electronics,Gold,False
+S00438,5,2496.98,39.21,0.35,Seller_438,Sports,Bronze,False
+S00349,6,2473.91,28.8,0.29,Seller_349,Fashion,Bronze,False
+S00293,4,2470.51,39.23,0.37,Seller_293,Beauty,Platinum,False
+S00383,6,2447.3,34.97,0.39,Seller_383,Home & Kitchen,Bronze,False
+S00112,3,2434.1,39.87,0.39,Seller_112,Home & Kitchen,Bronze,False
+S00458,6,2427.14,38.83,0.41,Seller_458,Home & Kitchen,Bronze,False
+S00125,5,2408.6,29.85,0.26,Seller_125,Electronics,Platinum,False
+S00170,6,2404.64,38.81,0.36,Seller_170,Fashion,Gold,False
+S00434,6,2384.07,34.39,0.39,Seller_434,Home & Kitchen,Bronze,False
+S00103,4,2331.55,28.92,0.33,Seller_103,Toys,Bronze,False
+S00133,5,2328.25,38.65,0.37,Seller_133,Home & Kitchen,Bronze,False
+S00206,5,2303.45,30.54,0.29,Seller_206,Beauty,Bronze,False
+S00060,5,2264.41,35.86,0.33,Seller_60,Jewellery,Bronze,False
+S00453,5,2261.79,40.33,0.37,Seller_453,Electronics,Bronze,False
+S00099,6,2259.57,31.47,0.36,Seller_99,Automotive,Bronze,False
+S00404,3,2228.09,33.9,0.3,Seller_404,Sports,Bronze,False
+S00273,6,2218.63,33.77,0.39,Seller_273,Grocery,Bronze,False
+S00224,5,2214.4,37.33,0.32,Seller_224,Fashion,Bronze,False
+S00174,6,2201.62,26.03,0.26,Seller_174,Electronics,Bronze,False
+S00054,3,2153.23,46.6,0.38,Seller_54,Fashion,Bronze,False
+S00496,6,2148.25,32.05,0.32,Seller_496,Electronics,Bronze,False
+S00161,5,2124.01,40.06,0.35,Seller_161,Books,Bronze,False
+S00255,5,2123.36,27.74,0.27,Seller_255,Beauty,Bronze,False
+S00114,2,2123.04,42.3,0.33,Seller_114,Home & Kitchen,Bronze,False
+S00380,6,2110.22,42.36,0.4,Seller_380,Home & Kitchen,Silver,False
+S00189,3,2098.41,38.89,0.32,Seller_189,Books,Bronze,False
+S00179,3,2093.44,34.91,0.35,Seller_179,Fashion,Silver,False
+S00021,5,2091.36,39.07,0.35,Seller_21,Sports,Silver,False
+S00298,3,2056.76,33.8,0.36,Seller_298,Books,Bronze,False
+S00309,7,2046.2,35.22,0.37,Seller_309,Toys,Silver,False
+S00476,3,2042.98,25.44,0.24,Seller_476,Grocery,Bronze,False
+S00311,4,2017.79,32.09,0.24,Seller_311,Home & Kitchen,Bronze,False
+S00068,5,1988.25,40.17,0.38,Seller_68,Grocery,Bronze,False
+S00236,4,1970.64,38.63,0.4,Seller_236,Sports,Bronze,False
+S00145,4,1957.95,25.8,0.26,Seller_145,Electronics,Bronze,False
+S00251,6,1930.92,42.73,0.36,Seller_251,Grocery,Bronze,False
+S00336,2,1929.89,26.3,0.27,Seller_336,Home & Kitchen,Gold,False
+S00265,3,1908.21,44.59,0.37,Seller_265,Automotive,Gold,False
+S00500,3,1894.09,54.29,0.39,Seller_500,Home & Kitchen,Silver,False
+S00276,7,1880.82,30.9,0.37,Seller_276,Electronics,Silver,False
+S00254,4,1858.08,29.72,0.32,Seller_254,Grocery,Bronze,False
+S00190,5,1850.11,41.53,0.39,Seller_190,Toys,Silver,False
+S00485,5,1845.62,35.81,0.36,Seller_485,Grocery,Bronze,False
+S00097,5,1820.91,43.92,0.4,Seller_97,Automotive,Platinum,False
+S00077,4,1818.18,31.12,0.28,Seller_77,Automotive,Bronze,False
+S00177,4,1795.8,42.01,0.4,Seller_177,Electronics,Silver,False
+S00353,6,1792.03,30.72,0.33,Seller_353,Home & Kitchen,Bronze,False
+S00391,5,1715.62,29.54,0.28,Seller_391,Automotive,Bronze,False
+S00263,6,1697.84,36.09,0.35,Seller_263,Books,Gold,False
+S00149,4,1691.24,32.76,0.29,Seller_149,Beauty,Bronze,False
+S00407,3,1649.26,34.29,0.28,Seller_407,Home & Kitchen,Bronze,False
+S00411,3,1644.77,40.27,0.37,Seller_411,Books,Silver,False
+S00046,7,1631.08,38.13,0.32,Seller_46,Sports,Silver,False
+S00426,5,1580.16,35.97,0.36,Seller_426,Jewellery,Silver,False
+S00372,4,1507.39,21.22,0.23,Seller_372,Books,Gold,False
+S00109,5,1470.25,38.69,0.37,Seller_109,Books,Silver,False
+S00420,4,1423.92,33.34,0.35,Seller_420,Toys,Bronze,False
+S00477,7,1418.18,36.54,0.39,Seller_477,Beauty,Bronze,False
+S00360,5,1409.67,25.52,0.3,Seller_360,Electronics,Platinum,False
+S00162,4,1358.28,30.87,0.31,Seller_162,Grocery,Bronze,False
+S00234,6,1336.48,26.78,0.29,Seller_234,Electronics,Gold,False
+S00019,5,1282.47,44.3,0.38,Seller_19,Books,Silver,False
+S00417,4,1268.94,40.7,0.4,Seller_417,Jewellery,Platinum,False
+S00305,3,1244.76,44.53,0.35,Seller_305,Home & Kitchen,Platinum,False
+S00040,3,1205.72,38.43,0.33,Seller_40,Beauty,Silver,False
+S00471,4,1186.28,38.78,0.4,Seller_471,Toys,Silver,False
+S00184,5,1154.07,30.33,0.34,Seller_184,Electronics,Bronze,False
+S00331,5,1113.88,37.14,0.41,Seller_331,Books,Silver,False
+S00159,3,1034.17,37.99,0.39,Seller_159,Jewellery,Bronze,False
+S00302,1,987.84,29.63,0.21,Seller_302,Grocery,Gold,False
+S00012,4,894.16,27.24,0.24,Seller_12,Grocery,Gold,False
+S00373,4,877.1,31.67,0.32,Seller_373,Beauty,Bronze,False
+S00220,5,758.31,32.32,0.32,Seller_220,Grocery,Bronze,False
+S00310,2,756.15,44.42,0.38,Seller_310,Electronics,Bronze,False
+S00201,4,755.25,36.27,0.36,Seller_201,Books,Silver,False
+S00196,2,741.53,38.42,0.3,Seller_196,Grocery,Gold,False
+S00449,3,650.8,25.74,0.27,Seller_449,Electronics,Silver,False
+S00041,3,639.19,16.89,0.13,Seller_41,Automotive,Bronze,False
+S00069,2,515.95,30.78,0.25,Seller_69,Toys,Bronze,False
+S00392,1,380.05,19.58,0.14,Seller_392,Sports,Bronze,False
