@@ -158,9 +158,8 @@ pytest tests/ -v
 
 ## 👤 Author
 
-**Chandrakant Allimatti**  
+**Chandrakant**  
 Senior Data Analyst | SQL · Python · BigQuery · Snowflake  
-[LinkedIn](https://linkedin.com/in/chandrakant-allimatti) · AllimattiChandrakant@gmail.com
 
 ---
 
